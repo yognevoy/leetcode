@@ -1,4 +1,4 @@
-This repository contains my solutions to various LeetCode problems implemented in Python3.
+This repository contains my solutions to various LeetCode problems.
 
 ## About
 
